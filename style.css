@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 60%;
+    margin: 50px auto;
+}
+
+legend {
+    font-size: larger;
+}
+
+form {
+    padding-top: 30px;
+}
+
+input {
+    width: 70%;
+    padding-left: 10px;
+}
